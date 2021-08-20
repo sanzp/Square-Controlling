@@ -1,0 +1,75 @@
+body{
+    background: rgb(232,219,24);
+background: radial-gradient(circle, rgba(232,219,24,1) 0%, rgba(232,66,103,1) 100%);
+border: 10px ridge gold ;
+}
+h1{
+    color: cornsilk;
+    background-color: indigo;
+    width: fit-content;
+    padding: 5px;
+    border: 5px cornsilk solid ;
+    border-radius: 20px;
+}
+b{
+color: red;
+font-size: 20px;
+}
+#one{
+    color: midnightblue;
+    margin-left: 80px;
+
+}
+#two{
+    color:darkblue;
+}
+hr{
+    height: 4px;
+    background-color: indigo;
+    width: 90%;
+}
+h3{
+    color: darkred;
+font-weight: bold;
+
+}
+#size{
+    color: gold;
+    background-color: darkred;
+    font-weight: bolder;
+    border-radius: 20px;
+    padding: 5px;
+}
+h4{
+    background-color: mediumblue;
+    color: mintcream;
+    padding:3px;
+    width: 80%;
+}
+.footer{
+    color: cornsilk;
+    background-color: indigo;
+    width:100%;
+    padding: 5px;
+    border: 3px cornsilk solid ;
+    bottom: 3;
+    position: fixed;
+font-size: 22px;
+}
+canvas{
+    background-color: rgb(75, 0, 130) ;
+    border: 5px  double mistyrose;
+    box-shadow: 5px 5px 30px black;
+}
+#bcolor ,#incolor{
+    color: darkred;
+    font-weight: bold;
+    background-color: coral;
+    width: fit-content;
+    font-size: 20px; 
+    text-align: center;
+    padding: 5px;
+    border: 5px solid darkred;
+    border-radius: 10px;
+    margin-left: 20px;
+}
